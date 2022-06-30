@@ -56,3 +56,5 @@ C:\Users\cogdotnet904\source\repos\FlightApplicationV5\Inventory\obj\Debug\net5.
 C:\Users\cogdotnet904\source\repos\FlightApplicationV5\Inventory\obj\Debug\net5.0\ref\Inventory.dll
 C:\Users\cogdotnet904\source\repos\FlightApplicationV5\Inventory\obj\Debug\net5.0\Inventory.pdb
 C:\Users\cogdotnet904\source\repos\FlightApplicationV5\Inventory\obj\Debug\net5.0\Inventory.genruntimeconfig.cache
+C:\Users\cogdotnet904\source\repos\FlightApplicationV5\Inventory\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\cogdotnet904\source\repos\FlightApplicationV5\Inventory\bin\Debug\net5.0\RabbitMQ.Client.dll

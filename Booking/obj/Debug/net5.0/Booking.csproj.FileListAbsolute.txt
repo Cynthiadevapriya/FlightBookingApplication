@@ -56,3 +56,4 @@ C:\Users\cogdotnet904\source\repos\FlightApplicationV5\Booking\obj\Debug\net5.0\
 C:\Users\cogdotnet904\source\repos\FlightApplicationV5\Booking\obj\Debug\net5.0\ref\Booking.dll
 C:\Users\cogdotnet904\source\repos\FlightApplicationV5\Booking\obj\Debug\net5.0\Booking.pdb
 C:\Users\cogdotnet904\source\repos\FlightApplicationV5\Booking\obj\Debug\net5.0\Booking.genruntimeconfig.cache
+C:\Users\cogdotnet904\source\repos\FlightApplicationV5\Booking\bin\Debug\net5.0\RabbitMQ.Client.dll

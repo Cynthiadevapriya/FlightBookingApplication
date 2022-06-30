@@ -23,6 +23,7 @@ namespace Booking.Controllers
         [HttpGet("email")]
         public async Task<ActionResult<BookingDetailsResponse>> History(string email)
         {
+            
             var bookingDetails = (from f in _context.BookingDetails
                                   where f.Email == email
                                   select f).ToList();

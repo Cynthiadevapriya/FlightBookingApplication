@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7vQ8P/Hv2LVPxmnxt0WIUbkrl//kWis1rT6nPk9KB0yFIhXV+YUP9jhQVSIeUnQXi8JFcKZq+jRcH78EGGjJKg==",
+  "dgSpecHash": "Rr44yW88SXXJudwA8UW+U9EntjUY0ZKGnpPtmjrU4ZjP4iVuH9Om9h0Z4JQrIlMoinKzNWzcCP7dWdQFk7c4pw==",
   "success": true,
   "projectFilePath": "C:\\Users\\cogdotnet904\\source\\repos\\FlightApplicationV5\\Inventory\\Inventory.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,8 @@
     "C:\\Users\\cogdotnet904\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\cogdotnet904\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\cogdotnet904\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\cogdotnet904\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\cogdotnet904\\.nuget\\packages\\rabbitmq.client\\5.2.0\\rabbitmq.client.5.2.0.nupkg.sha512",
     "C:\\Users\\cogdotnet904\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\cogdotnet904\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\cogdotnet904\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",

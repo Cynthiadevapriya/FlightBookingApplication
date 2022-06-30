@@ -1,4 +1,5 @@
 ﻿using Inventory.Model;
+using Inventory.RabbitMQ;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -172,6 +173,7 @@ namespace Inventory.Controllers
             {
                 airlineDetails.IsEnable = false;
                 _context.SaveChanges();
+                AirlineProducer.Producer("The airline " + airlineDetails.AirlineName+" has been blocked" );
                 return Ok(new { message = "The  Airline has been Blocked" });
             }
             else 

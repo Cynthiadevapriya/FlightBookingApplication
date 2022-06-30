@@ -26,5 +26,6 @@ namespace Booking
             optionsBuilder.UseSqlServer(connectionString);
 
         }
+        
     }
 }

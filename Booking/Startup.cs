@@ -1,3 +1,4 @@
+using Booking.RabbitMQ;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -44,6 +45,7 @@ namespace Booking
                 .AllowAnyMethod()
                 .AllowAnyHeader());
             });
+            services.AddHostedService<ConsumeRabbitMQHostedService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
